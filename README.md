@@ -2,7 +2,7 @@
 FARM-stack project
 
 
-<h3>Resources used></h3>
+<h3>Resources used</h3>
 
 https://www.youtube.com/watch?v=gDOKSgqM-bQ
 
