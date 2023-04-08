@@ -4,6 +4,8 @@ FARM-stack project
 
 <h3>Resources used</h3>
 
+https://www.youtube.com/watch?v=OzUzrs8uJl8
+
 https://www.youtube.com/watch?v=gDOKSgqM-bQ
 
 <a href="https://www.w3schools.com/mongodb/mongodb_get_started.php">W3School</a>
