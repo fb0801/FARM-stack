@@ -1,6 +1,8 @@
 # FARM-stack
 FARM-stack project
 
+This project was created using the video by freecodecamp, where we use FASTAPI, REACT and MONGODB
+
 
 <h3>Resources used</h3>
 
