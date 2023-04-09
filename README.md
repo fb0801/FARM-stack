@@ -23,3 +23,11 @@ https://www.youtube.com/watch?v=ueiBryobvOY
 https://www.youtube.com/watch?v=Z9Vm9Uxk5pA
 
 https://docs.python.org/3/tutorial/venv.html
+
+https://stackoverflow.com/questions/5509543/how-do-i-properly-force-a-git-push
+
+https://www.toptal.com/developers/gitignore/
+
+https://motor.readthedocs.io/en/stable/tutorial-asyncio.html
+
+https://stackoverflow.com/questions/343646/ignoring-directories-in-git-repositories-on-windows
